@@ -2,7 +2,7 @@ import './App.css';
 
 // import Nav1 from './components/units/pages/nav1';
 import Abt from './components/units/pages/abt';
-import NewBar from './components/units/pages/New';
+import NewBar from './components/units/pages/NewBar';
 import Exper from './components/units/pages/exper';
 import Edu from './components/units/pages/edu';
 import Projects from './components/units/pages/projects';
