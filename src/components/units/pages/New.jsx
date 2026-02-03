@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-export default function New_bar() {
+export default function NewBar() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
