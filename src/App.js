@@ -2,7 +2,7 @@ import './App.css';
 
 // import Nav1 from './components/units/pages/nav1';
 import Abt from './components/units/pages/abt';
-import New_bar from './components/units/pages/New';
+import NewBar from './components/units/pages/NewBar';
 import Exper from './components/units/pages/exper';
 import Edu from './components/units/pages/edu';
 import Projects from './components/units/pages/projects';
@@ -15,7 +15,7 @@ import Skills from './components/units/pages/skills';
 function App() {
   return (
     <div >
-      <New_bar/>
+      <NewBar/>
       <div className="">
         <div id="about" className='min-h-screen relative z-10  '><div className='sticky top-[64px]'><Abt/></div></div>
       <div id="experience" className='min-h-screen relative z-15 '><div className='sticky top-[64px]'> <Exper/></div></div>
